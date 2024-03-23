@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "title": "Titanic",
+        "content":"A timeless love story unfolds the backdrop of the ill-fated maiden voyage of the Titanic",
+        "category":"romance",
+        "tags":["love story","Titanic","maiden", "voyage","tragedy","love prevails","romance"]
+    },
+    {
+        "id": 2,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "content": "The first book in the Harry Potter series, where Harry discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+        "category": "fantasy",
+        "tags": ["Harry Potter", "wizard", "Hogwarts", "magic", "fantasy", "adventure"]
+      },
+      {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "content": "Jane Austen's classic novel about love, marriage, and social status in 19th-century England.",
+        "category": "classic",
+        "tags": ["Jane Austen", "love", "marriage", "social status", "England", "19th century"]
+      }
+            
+]
